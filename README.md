@@ -7,7 +7,6 @@ A machine learning project that predicts the probability of a cricket team winni
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Dataset](#dataset)
-- [Screenshots](#screenshots)
 - [Methodology](#methodology)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -49,13 +48,6 @@ The dataset consists of ball-by-ball data from the Indian Premier League (IPL) s
 - **Key fields**: `batting_team`, `bowling_team`, `total_runs`, `over`, `ball`, `wickets`, etc.
 
 > **Note:** Place the raw CSV files in the `data/raw/` directory before running preprocessing scripts.
-
----
-
-## Screenshots
-
-
-
 
 ---
 
