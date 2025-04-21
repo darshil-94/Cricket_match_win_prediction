@@ -132,7 +132,7 @@ The dataset consists of ball-by-ball data from the Indian Premier League (IPL) s
 
 ## Results
 
-- **Best model**: XGBoost with ROC-AUC of 0.89 on the test set
+- **Best model**: Randomforest with ROC-AUC of 0.89 on the test set
 - **Sample predictions:**
   - At over 15.3, Team A win probability: 65%
   - At over 19.2, Team B win probability: 72%
